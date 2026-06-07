@@ -6,3 +6,4 @@ export default defineConfig({
   plugins: [react()],
   base: './',
 })
+git add . && git commit -m "fix" && git push
